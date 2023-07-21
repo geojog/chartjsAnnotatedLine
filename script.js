@@ -15,7 +15,7 @@ var X_AXIS = 'Year';
 var Y_AXIS = 'Passengers';
 
 // Should y-axis start from 0? `true` or `false`
-var BEGIN_AT_ZERO = false;
+var BEGIN_AT_ZERO = true;
 
 // `true` to show the legend, `false` to hide
 var SHOW_LEGEND = true;
